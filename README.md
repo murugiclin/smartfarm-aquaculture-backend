@@ -278,7 +278,7 @@ http://localhost:8081/api/v1/aquaculture/api-docs
 
 ## License
 
-© 2024 SmartFarm Intelligence Platform. All rights reserved.
+© 2026 SmartFarm Intelligence Platform. All rights reserved.
 
 ---
 
